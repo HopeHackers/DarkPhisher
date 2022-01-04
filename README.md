@@ -15,7 +15,7 @@
 
 ### Installation
 
--Clone this repository -
+- Clone this repository -
 ```
 git clone https://github.com/ravisharma011/RSPhisher.git
 ```
@@ -25,6 +25,7 @@ git clone https://github.com/ravisharma011/RSPhisher.git
 cd RSPhisher
 ```
 - Run The Tool -
+```
 bash RSPhisher.sh
 ```
 
