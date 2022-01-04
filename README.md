@@ -1,21 +1,3 @@
-<!-- RSPhisher -->
-
-<p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/9G1rzbK/RSPhisher.png" alt="RSPhisher" border="0"></a></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/ravisharma011/RSPhisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/ravisharma011/RSPhisher?style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-Ravi%20Sharma-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/MADE%20IN-INDIA-red?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
-</p>
-
 <p align="center">New 2022 Phishing Tool! Maade For Termux!</p>
 
 ##
