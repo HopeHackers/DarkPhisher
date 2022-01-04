@@ -15,16 +15,16 @@
 
 ### Installation
 
-- Clone this repository -
+- Clone this repository
 ```
 https://github.com/HopeHackers/DarkPhisher
 ```
 
-- Enter To The Directory! -
+- Enter To The Directory!
 ```
 cd DarkPhisher
 ```
-- Run The Tool -
+- Run The Tool
 ```
 bash darkphisher.sh
 ```
