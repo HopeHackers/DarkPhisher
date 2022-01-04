@@ -17,16 +17,16 @@
 
 - Clone this repository -
 ```
-git clone https://github.com/ravisharma011/RSPhisher.git
+https://github.com/HopeHackers/DarkPhisher
 ```
 
 - Enter To The Directory! -
 ```
-cd RSPhisher
+cd DarkPhisher
 ```
 - Run The Tool -
 ```
-bash RSPhisher.sh
+bash darkphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. 
