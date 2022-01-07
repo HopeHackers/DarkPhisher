@@ -29,6 +29,11 @@ cd DarkPhisher
 tar -zxvf Darkphisher.tar.gz
 ```
 
+- Remove The Archived File
+```
+rm -rf Darkphisher.tar.gz
+```
+
 - Running The Tool
 ```
 bash darkphisher.sh
@@ -39,8 +44,13 @@ bash darkphisher.sh
 - On first launch, It'll install the dependencies and that's it. 
 <br>
 
-- Facing Any Problem?
-## Contact Me!
+## Facing Any Problem?
+- Call Me
+```
++27847611848
+```
+
+## Find Me On
 <br>
 Facebook : <a href="https://m.facebook.com/boggieTricks/">Click Here</a>
 <br>
