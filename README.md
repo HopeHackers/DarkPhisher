@@ -24,15 +24,23 @@ https://github.com/HopeHackers/DarkPhisher
 ```
 cd DarkPhisher
 ```
-- Run The Tool
+- extract The Tool
+```
+tar -zxvf Darkphisher.tar.gz
+```
+
+- Running The Tool
 ```
 bash darkphisher.sh
 ```
 
+## Happy Hacking!❤️
+
 - On first launch, It'll install the dependencies and that's it. 
 <br>
 
-## Follow Me!
+- Facing Any Problem?
+## Contact Me!
 <br>
 Facebook : <a href="https://m.facebook.com/boggieTricks/">Click Here</a>
 <br>
